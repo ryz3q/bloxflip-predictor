@@ -1,5 +1,5 @@
 # bloxflip-predictor
-## DON'T BUY PREDICTORS (they're not real). All the predictors are fake. (also this predictor is fake. all predictors are made with the same code)
+## DON'T BUY PREDICTORS (they're not real). All the predictors are fake. (also this predictor is fake. all the predictors are made with the same code)
 
 # 💣 MINES 💣
 ![mines](https://user-images.githubusercontent.com/113990533/193905438-96d057a4-cd5b-4647-bb85-cd9be2a3d3fb.png)
